@@ -2,7 +2,7 @@
 import stdiomask as sm
 import os,sys
 
-# coded by Akash
+# coded by Hac4er.Adi
 
 flag = True
 endc = '\033[0m'
